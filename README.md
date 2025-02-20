@@ -32,4 +32,4 @@ Here should be everything you need to make this hackpad
 
 
 ### footnote
-tbh stole this README from the (Orpheuspad)[https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad/README.md] so yea check that out :3 
+tbh stole this README from the [Orpheuspad](https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad/README.md) so yea check that out :3 
