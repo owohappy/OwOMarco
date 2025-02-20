@@ -31,7 +31,5 @@ Here should be everything you need to make this hackpad
 - 1x Case 
 
 
-## Extra stuff
-Honestly I'm not quite too sure what to add here. Favourite meme? a joke?? Uhhh you can imagine it
-
-Oh fun fact: I built mine in SF the day before github universe LOL
+### footnote
+tbh stole this README from the (Orpheuspad)[https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad/README.md] so yea check that out :3 
